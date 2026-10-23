@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sakamichi
 - 👀 I’m interested in making beer! 
-- 🌱 I’m currently learning more about the brewing process. 
-- 💞️ I’m looking to collaborate on interesting brewing recipes. 
+- 🌱 I’m currently learning more how computers work. 
+- 💞️ I’m looking to collaborate on software implementation in the brewing industry. 
 - 📫 How to reach me - Check us out on Twitter @sakamichi_beer
 
 <!---
